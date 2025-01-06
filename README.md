@@ -1,5 +1,5 @@
-
-- 😃 Me llamo Martín Romero y tengo 22 años!
+### Hola! Me llamo Martín Romero (@mrv-dev21) 😎
+- 📅 Nací el 21 de marzo del año 2002, tengo 22 años!
 - 🔭 Actualmente estoy estudiando Ingeniería Civil en Computación (5to año)
 - 🌱 Mi objetivo es fortalecerme en el área de desarrollo de software inicialmente en front-end
 - 🤔 Estoy reestructurando mis objetivos como futuro programador
